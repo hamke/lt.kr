@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /assets-frontpage/
+Disallow: /lounge/assets/
+Disallow: /intro/assets/
+Disallow: /phpmyadmin/
